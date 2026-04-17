@@ -52,10 +52,10 @@ The final dashboard gave the WCC Executive Director an on-demand view of judicat
 
 ## About the Analyst
 
-**Elisabelle Kaputo** | Data Analyst | Atlanta, GA
+**Elisabelle Kaputo** | Data Analyst | Atlanta, GA | www.linkedin.com/in/elisabellekaputo
 
 - BS Architecture — Georgia Institute of Technology *(4.0 GPA)*
 - MA Practical Theology — Columbia Theological Seminary *(4.0 GPA)*
 - Google Data Analytics Professional Certificate
 - Background spanning architecture, project coordination, and nonprofit analytics
-- *(www.linkedin.com/in/elisabellekaputo)*
+  
