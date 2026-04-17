@@ -58,4 +58,4 @@ The final dashboard gave the WCC Executive Director an on-demand view of judicat
 - MA Practical Theology — Columbia Theological Seminary *(4.0 GPA)*
 - Google Data Analytics Professional Certificate
 - Background spanning architecture, project coordination, and nonprofit analytics
-- 🔗 [LinkedIn](#) · [Portfolio](#) *(www.linkedin.com/in/elisabelle kaputo)*
+- 🔗 [LinkedIn](#) · [Portfolio](#) *(www.linkedin.com/in/elisabellekaputo)*
